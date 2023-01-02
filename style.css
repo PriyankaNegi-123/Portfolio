@@ -167,6 +167,10 @@ hr{
     color: var(--clr-dark-blue)
 }
 
+footer .contact-link:hover{
+    color: var(--clr-white)
+}
+
 .hero-img-container{
     width: 14rem;
     height: 14rem;
